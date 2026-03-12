@@ -1,15 +1,22 @@
-# PowerShell Automation Scripts
+# ⚡ PowerShell Automation Toolkit
 
-Collection of essential scripts to automate Windows system administration and troubleshooting tasks.
+> Collection of essential PowerShell scripts used for **Windows administration, troubleshooting, and system diagnostics.**
 
-## 🚀 Features
+---
 
-- User management: create, remove, unlock accounts
-- Service monitoring & restart automation
-- System performance & health checks
-- Disk usage checks
-- Network diagnostics (DNS, Ping, IP config)
-- Event log analysis for troubleshooting
+## 🧰 What This Repository Contains
+
+This repository demonstrates practical automation scripts commonly used by **IT Support / L2 Engineers** for diagnosing and resolving Windows system issues.
+
+Scripts included cover:
+
+✔ User account management  
+✔ Service monitoring and recovery  
+✔ System health analysis  
+✔ Disk usage checks  
+✔ Network troubleshooting  
+✔ Event log investigation  
+
 
 ## 🛠 How to Use
 
@@ -17,6 +24,19 @@ Collection of essential scripts to automate Windows system administration and tr
 2. Open PowerShell as Administrator
 3. Navigate to the `Scripts` folder
 4. Run scripts with: `.\ScriptName.ps1`
+
+
+## 🛠 Example Use Case
+
+An IT support engineer can quickly run these scripts to:
+
+• Identify high CPU processes  
+• Detect failed services  
+• Analyze event logs for system errors  
+• Check disk space issues  
+• Test network connectivity  
+• Gather system diagnostic information 
+
 
 ## Scripts Included
 
@@ -31,6 +51,13 @@ Collection of essential scripts to automate Windows system administration and tr
 
 ## 🎯 Why This Repo
 
-Demonstrates hands-on Windows troubleshooting, automation, and system analysis — key skills for L2 IT support engineers.
+This project demonstrates hands-on practice with **PowerShell automation and troubleshooting workflows** used in real-world Windows environments.
+
+---
+
+## 🧑‍💻 Author
+
+**Dhanush Achari**  
+IT Support / Infrastructure Troubleshooting
 
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
